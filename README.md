@@ -121,7 +121,7 @@ A production-ready version would move to:
 - **PostgreSQL** (or another SQL DB) for farmers, parcels, soil data, monitoring history  
 
 
-#### ✔️ Real Scheduling
+#### Real Scheduling
 Right now, periodic report sending is triggered manually by calling an endpoint.  
 In a real deployment, reports should be sent automatically (daily / weekly / monthly) using:
 - **APScheduler**
@@ -131,7 +131,7 @@ This would transform reporting into a fully automated notification system.
 
 ---
 
-#### ✔️ Smarter AI Assistant
+#### Smarter AI Assistant
 AI support is implemented but intentionally simple.  
 Currently:
 - Gemini detects user intent  
