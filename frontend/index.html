@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CO2 Angels Farm Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <!-- Left Side: Conversations List -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h3>📱 Conversations</h3>
+        </div>
+        <div class="conversations">
+            <!-- Conversation items will be added here by JavaScript -->
+        </div>
+        <div class="add-conversation">
+            <input type="tel" id="new-phone" placeholder="+407xxxxxxx" maxlength="13">
+            <button onclick="addConversation()">+</button>
+        </div>
+    </div>
+
+    <!-- Right Side: Chat -->
+    <div class="chat-area">
+        <!-- Header with selected conversation -->
+        <div class="chat-header">
+            <div class="avatar">🌱</div>
+            <div class="status">
+                <strong id="current-phone">Select a conversation</strong><br>
+                <small id="connection-status">Click a conversation on the left</small>
+            </div>
+        </div>
+
+        <!-- Chat messages -->
+        <div id="chat-box" class="chat-box">
+            <div class="welcome-message">
+                Select a conversation from the left or add a new phone number to start chatting.
+            </div>
+        </div>
+
+        <!-- Message input -->
+        <div class="input-row">
+            <input id="message" type="text" placeholder="Select a conversation first..." disabled>
+            <button onclick="sendMessage()" disabled>➤</button>
+        </div>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

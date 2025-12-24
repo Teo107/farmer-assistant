@@ -1,0 +1,93 @@
+[
+  {
+    "id": "P1",
+    "farmer_id": "F1",
+    "name": "North Field",
+    "area_ha": 12.3,
+    "crop": "Wheat"
+  },
+  {
+    "id": "P2",
+    "farmer_id": "F1",
+    "name": "South Slope",
+    "area_ha": 8.7,
+    "crop": "Maize"
+  },
+  {
+    "id": "P3",
+    "farmer_id": "F1",
+    "name": "East Meadow",
+    "area_ha": 5.5,
+    "crop": "Alfalfa"
+  },
+  {
+    "id": "P4",
+    "farmer_id": "F1",
+    "name": "West Terrace",
+    "area_ha": 10.0,
+    "crop": "Sunflower"
+  },
+  {
+    "id": "P5",
+    "farmer_id": "F1",
+    "name": "River Plot",
+    "area_ha": 6.1,
+    "crop": "Soybean"
+  },
+  {
+    "id": "P6",
+    "farmer_id": "F2",
+    "name": "Hill Top",
+    "area_ha": 4.2,
+    "crop": "Barley"
+  },
+  {
+    "id": "P7",
+    "farmer_id": "F3",
+    "name": "Valley Field",
+    "area_ha": 9.9,
+    "crop": "Rapeseed"
+  },
+  {
+    "id": "P8",
+    "farmer_id": "F3",
+    "name": "Orchard Strip",
+    "area_ha": 3.8,
+    "crop": "Apples"
+  },
+  {
+    "id": "P9",
+    "farmer_id": "F4",
+    "name": "Central Plot",
+    "area_ha": 7.0,
+    "crop": "Corn"
+  },
+  {
+    "id": "P10",
+    "farmer_id": "F4",
+    "name": "Lowland Field",
+    "area_ha": 11.4,
+    "crop": "Wheat"
+  },
+  {
+    "id": "P11",
+    "farmer_id": "F5",
+    "name": "High Ridge",
+    "area_ha": 6.8,
+    "crop": "Sunflower"
+  },
+  {
+    "id": "P12",
+    "farmer_id": "F5",
+    "name": "East Block",
+    "area_ha": 5.1,
+    "crop": "Maize"
+  },
+  {
+    "id": "P13",
+    "farmer_id": "F5",
+    "name": "South Pasture",
+    "area_ha": 9.0,
+    "crop": "Pasture"
+  }
+]

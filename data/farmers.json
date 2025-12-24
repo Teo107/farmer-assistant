@@ -1,0 +1,32 @@
+[
+  {
+    "id": "F1",
+    "username": "ana.popescu",
+    "name": "Ana Popescu",
+    "phone": "+40741111111"
+  },
+  {
+    "id": "F2",
+    "username": "ion.ionescu",
+    "name": "Ion Ionescu",
+    "phone": "+40742222222"
+  },
+  {
+    "id": "F3",
+    "username": "maria.stan",
+    "name": "Maria Stan",
+    "phone": null
+  },
+  {
+    "id": "F4",
+    "username": "george.matei",
+    "name": "George Matei",
+    "phone": null
+  },
+  {
+    "id": "F5",
+    "username": "darius.enache",
+    "name": "Darius Enache",
+    "phone": "+40745555555"
+  }
+]
